@@ -1,0 +1,8 @@
+minio_1/
+minio_2/
+minio_3/
+minio_4/
+*.bin
+test/
+mysql_data/
+pyCode/ali_oss.ipynb
