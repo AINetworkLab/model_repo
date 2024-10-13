@@ -1,1 +1,1 @@
-**re2po: A layer-aware distributed edge DNN model repository**
+#Re²po：A Distributed Redundancy-aware Model Repository for Edge Intelligence
